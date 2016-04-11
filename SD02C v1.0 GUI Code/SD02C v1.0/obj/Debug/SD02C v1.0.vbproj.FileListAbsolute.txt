@@ -1,0 +1,15 @@
+c:\users\user\documents\visual studio 2015\Projects\SD02C v1.0\SD02C v1.0\bin\Debug\SD02C v1.0.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\SD02C v1.0\SD02C v1.0\bin\Debug\SD02C v1.0.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\SD02C v1.0\SD02C v1.0\bin\Debug\SD02C v1.0.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\SD02C v1.0\SD02C v1.0\bin\Debug\SD02C v1.0.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\SD02C v1.0\SD02C v1.0\obj\Debug\SD02C v1.0.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\SD02C v1.0\SD02C v1.0\obj\Debug\SD02C_v1._0.Form1.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\SD02C v1.0\SD02C v1.0\obj\Debug\SD02C_v1._0.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\SD02C v1.0\SD02C v1.0\obj\Debug\SD02C v1.0.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\SD02C v1.0\SD02C v1.0\obj\Debug\SD02C v1.0.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\SD02C v1.0\SD02C v1.0\obj\Debug\SD02C v1.0.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\SD02C v1.0\SD02C v1.0\obj\Debug\SD02C v1.0.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\SD02C v1.0\SD02C v1.0\bin\Debug\SD02C v1.0.exe.manifest
+C:\Users\User\Documents\Visual Studio 2015\Projects\SD02C v1.0\SD02C v1.0\bin\Debug\SD02C v1.0.application
+C:\Users\User\Documents\Visual Studio 2015\Projects\SD02C v1.0\SD02C v1.0\obj\Debug\SD02C v1.0.exe.manifest
+C:\Users\User\Documents\Visual Studio 2015\Projects\SD02C v1.0\SD02C v1.0\obj\Debug\SD02C v1.0.application
