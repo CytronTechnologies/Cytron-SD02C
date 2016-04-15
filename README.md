@@ -1,31 +1,28 @@
 # Cytron-SD02C
 
-Description:
+<h3>Description:</h3>
 
-This is sample code for Cytron Stepper Driver V2C (SD02C). The component that we used is available here 
+This is sample code for Cytron Stepper Driver V2C (SD02C). 
+<h3>Folder in this repo:</h3>
+<ul><li> Arduino Sample Code</li>
+<li>PIC Sample Code</li>
+<li>GUI Code and GUI Installer</li></ul>
 
-Software:
+<h3>Software:</h3>
+<ul><li>Arduino IDE V1.6.7 for Arduino sample code</li>
 
-Arduino IDE V1.6.7 for Arduino sample code
+<li>MPLab IDE V8.92 with C30 compiler for DSPIC sample code </li>
 
-MPLab IDE V8.92 with C30 compiler for DSPIC sample code 
+<li>Visual Studio 2015 for GUI sample code</li></ul>
 
-Visual Studio 2015 for GUI sample code
-
-Hardware:
-
-Stepper motor : http://www.cytron.com.my/p-mo-step-35by48l
-
-Stepper motor driver: http://www.cytron.com.my/p-sd02c
-
-CT-UNO or Arduino UNO : http://www.cytron.com.my/p-ct-uno
-
-LCD Shield: http://www.cytron.com.my/p-shield-lcd
-
-UC00A : http://www.cytron.com.my/p-uc00a
-
-Power adapter 12V : http://www.cytron.com.my/p-ad-12-2
-
-USB Micro cable : http://www.cytron.com.my/p-wr-usb-ub
-
+<h3>Hardware:</h3>
+<ul>
+<li><a href="http://www.cytron.com.my/p-mo-step-35by48l" target="_blank">Stepper motor</a></li>
+<li><a href="http://www.cytron.com.my/p-sd02c" target="_blank">Stepper motor driver</a></li>
+<li><a href="http://www.cytron.com.my/p-ct-uno" target="_blank">CT-UNO or Arduino UNO</a></li> 
+<li><a href="http://www.cytron.com.my/p-shield-lcd" target="_blank">LCD Shield</a></li>
+<li><a href="http://www.cytron.com.my/p-uc00a" target="_blank">UC00A</a></li>
+<li><a href="http://www.cytron.com.my/p-ad-12-2" target="_blank">Power adapter 12V</a></li>  
+<li><a href="http://www.cytron.com.my/p-wr-usb-ub" target="_blank">USB Micro cable</a></li>  
+</ul>
 Welcome to our technical forum for further inquiry.
