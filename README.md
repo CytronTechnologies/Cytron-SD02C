@@ -1,8 +1,8 @@
 # Cytron-SD02C
 
 <h3>Description:</h3>
-
-This is sample code for Cytron Stepper Driver V2C (SD02C). 
+This is sample code for Cytron Stepper Driver V2 (SD02C). <br/>
+<img alt="" src="http://www.cytron.com.my/image/cache/data/products/SD02C/SD02C%20(2)-280x373.jpg"></img>
 <h3>Folder in this repo:</h3>
 <ul><li> Arduino Sample Code</li>
 <li>PIC Sample Code</li>
