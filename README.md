@@ -1,28 +1,33 @@
 # Cytron-SD02C
 
-<h3>Description:</h3>
+## Description  
 This is sample code for Cytron Stepper Driver V2 (SD02C). <br/>
-<img alt="" src="http://www.cytron.com.my/image/cache/data/products/SD02C/SD02C%20(2)-280x373.jpg"></img>
-<h3>Folder in this repo:</h3>
-<ul><li> Arduino Sample Code</li>
-<li>PIC Sample Code</li>
-<li>GUI Code and GUI Installer</li></ul>
+<img src="https://static.cytron.io/image/cache/catalog/products/SD02C/stepper-driver-2-ampere-40625-512x512.jpg" width="350">  
 
-<h3>Software:</h3>
-<ul><li>Arduino IDE V1.6.7 for Arduino sample code</li>
+### Folder in this repo:  
+* Arduino Sample Code  
+* PIC Sample Code  
+* GUI Code and GUI Installer  
 
-<li>MPLab IDE V8.92 with C30 compiler for DSPIC sample code </li>
+## Requirements
+**Hardware:**  
+* [Stepper motor](http://www.cytron.io/p-mo-step-35by48l)  
+* [Stepper motor driver](http://www.cytron.io/p-sd02c)  
+* [CT-UNO](http://www.cytron.io/p-ct-uno) or [Arduino UNO](http://www.cytron.io/p-arduino-uno?search=arduino%20uno&sort=relevance&order=DESC")  
+* [LCD Shield](http://www.cytron.io/p-shield-lcd)  
+* [UC00A](http://www.cytron.io/p-uc00a)  
+* [Power adapter 12V](http://www.cytron.io/p-ad-12-2)  
+* [USB Micro cable](http://www.cytron.io/p-wr-usb-ub)  
 
-<li>Visual Studio 2015 for GUI sample code</li></ul>
+**Software:**  
+For software setup you will needs:  
+* Arduino IDE V1.6.7 for Arduino sample code  
+* MPLab IDE V8.92 with C30 compiler for DSPIC sample code  
+* Visual Studio 2015 for GUI sample code  
 
-<h3>Hardware:</h3>
-<ul>
-<li><a href="http://www.cytron.com.my/p-mo-step-35by48l" target="_blank">Stepper motor</a></li>
-<li><a href="http://www.cytron.com.my/p-sd02c" target="_blank">Stepper motor driver</a></li>
-<li><a href="http://www.cytron.com.my/p-ct-uno" target="_blank">CT-UNO or Arduino UNO</a></li> 
-<li><a href="http://www.cytron.com.my/p-shield-lcd" target="_blank">LCD Shield</a></li>
-<li><a href="http://www.cytron.com.my/p-uc00a" target="_blank">UC00A</a></li>
-<li><a href="http://www.cytron.com.my/p-ad-12-2" target="_blank">Power adapter 12V</a></li>  
-<li><a href="http://www.cytron.com.my/p-wr-usb-ub" target="_blank">USB Micro cable</a></li>  
-</ul>
-Welcome to our technical forum for further inquiry.
+## Documentation
+Datasheet for this product can be found here:  
+* [SD02C User's Manual](https://docs.google.com/document/d/1eG9g3znP5QTtI92vE031wuY7EALHUdkOYl5FVI_HuRw/view)  
+
+## Support  
+Welcome to our [technical forum](http://forum.cytron.io) if you have further inquiry.  
